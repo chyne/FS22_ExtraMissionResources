@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+<version>1.0.0.0</version>
+<author>chyne</author>
+
+    <title>
+        <en>Extra Mission Resources</en>
+    </title>
+
+    <description>
+        <en><![CDATA[Now you can collect straw after harvest missions, and stones after plow and cultivate missions.]]></en>
+    </description>
+
+    <multiplayer supported="true" />
+    <iconFilename>icon.dds</iconFilename>
+    <extraSourceFiles>
+        <sourceFile filename="ExtraMissionResources.lua" />
+    </extraSourceFiles>
+</modDesc>
